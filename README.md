@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 [![zhihu-shield]][zhihu]
 
 ### 我的公众号
-[code-past]:/img/codepast-logo.jpg "公众号：编程往事"
+![code-past]
+
+[code-past]:code-past.png "公众号：编程往事"
 
 
 
