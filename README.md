@@ -1,4 +1,4 @@
-### 我的知乎
+### 知乎：[果冻虾仁](zhihu)
 
 <!--
 **guodongxiaren/guodongxiaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![zhihu-shield]][zhihu]
+![zhihu-shield]
 
-### 我的公众号
+### 公众号：编程往事
 ![code-past]
 
 [code-past]:code-past.png "公众号：编程往事"
