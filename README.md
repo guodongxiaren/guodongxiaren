@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 公众号：编程往事
 ![code-past]
 
-[code-past]:code-past.png "公众号：编程往事"
+[code-past]:https://raw.githubusercontent.com/guodongxiaren/README/master/img/codepast-banner.png "公众号：编程往事"
 
 
 
